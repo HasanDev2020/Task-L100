@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Controllers\ConvertFilesStructrToTamatemStructure;
+use App\Http\Controllers\TeammateFilesStructController;
 use Illuminate\Support\Facades\Route;
 
 /*

@@ -1,4 +1,4 @@
-# Installation Laravel 8
+# Installation Laravel 9
 ## Requirements
 - php 8.*
 - composer
@@ -18,5 +18,5 @@
 - Run Command `php artisan app:convert-files-structr-to-original-structure-command`
 
 ## If you want to convert the files structure to tamatem structure again
-- Run Command `app:convert-files-structr-to-tamatem-structure-command`
+- Run Command `php artisan app:convert-files-structr-to-tamatem-structure-command`
 ```
