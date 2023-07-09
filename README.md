@@ -14,7 +14,7 @@
 - Run Command `php artisan app:convert-files-structr-to-tamatem-structure-command`
 - Go to public folder you will find folder name `files` this folder contain all files that you want to convert it to tamatem structure
 
-## If you want to return the files structure to the original
+## If you want to return the files structure to the original "NOTE: this command must be run after you run the command above: app:convert-files-structr-to-tamatem-structure-command"
 - Run Command `php artisan app:convert-files-structr-to-original-structure-command`
 
 ## If you want to convert the files structure to tamatem structure again
