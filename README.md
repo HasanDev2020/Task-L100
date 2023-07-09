@@ -2,7 +2,6 @@
 ## Requirements
 - php 8.*
 - composer
-- mysql 5.7
 - xaamp or wamp or laragon
 - git
 
